@@ -1,6 +1,6 @@
 # C Programming Repository
 
-This repository contains a collection of various C programs developed during my time at the university with C99 and here refactored to C11. These programs cover a wide range of topics in computer science including arrays, graphs, algorithms, and more.
+This repository contains a collection of various C programs (a little bit Pascal) developed during my time at the university with C99 and here refactored to C11. These programs cover a wide range of topics in computer science including arrays, graphs, algorithms, and more.
 
 ## Contents
 
@@ -17,6 +17,8 @@ gcc program.c -o program
 ./program
 ```
 Please read the individual program descriptions for more information on what each program does and how to interact with it.
+
+### Pascal files encoding - IBM866.
 
 ## Contributing
 
